@@ -1,0 +1,3 @@
+# High Scores - Melody Guessing Battle
+# Format: Name|Score|Wins|GamesPlayed|Timestamp
+

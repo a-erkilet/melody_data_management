@@ -1,0 +1,48 @@
+# Arduino Melody Guessing System - Song Database
+# Format: ID|SongName|Artist|Category|ArduinoFile
+# ArduinoFile: github.com/robsoncouto/arduino-songs klasör adı
+# Categories: Film, Oyun, Klasik, Pop, Dizi
+
+# === FILM MÜZIKLERI ===
+1|Imperial March|Star Wars|Film|imperialmarch
+2|Cantina Band|Star Wars|Film|cantinaband
+3|Star Wars Theme|John Williams|Film|starwars
+4|Hedwigs Theme|Harry Potter|Film|harrypotter
+5|The Godfather|Nino Rota|Film|thegodfather
+6|Pink Panther|Henry Mancini|Film|pinkpanther
+7|The Lion Sleeps Tonight|The Tokens|Film|thelionsleepstonight
+
+# === OYUN MÜZIKLERI ===
+8|Super Mario Bros|Nintendo|Oyun|supermariobros
+9|Tetris Theme|Hirokazu Tanaka|Oyun|tetris
+10|Zelda Theme|Koji Kondo|Oyun|zeldatheme
+11|Zeldas Lullaby|Koji Kondo|Oyun|zeldaslullaby
+12|Song of Storms|Koji Kondo|Oyun|songofstorms
+13|Pacman|Namco|Oyun|pacman
+14|Green Hill Zone|Sonic|Oyun|greenhill
+15|Mii Channel|Nintendo|Oyun|miichannel
+16|Doom Theme|Bobby Prince|Oyun|doom
+17|Bloody Tears|Castlevania|Oyun|bloodytears
+18|Professor Layton|Level-5|Oyun|professorlayton
+
+# === KLASIK MÜZIK ===
+19|Fur Elise|Beethoven|Klasik|furelise
+20|Ode to Joy|Beethoven|Klasik|odetojoy
+21|Canon in D|Pachelbel|Klasik|cannonind
+22|Minuet in G|Petzold|Klasik|minuetg
+23|Greensleeves|Traditional|Klasik|greensleeves
+24|Brahms Lullaby|Brahms|Klasik|brahmslullaby
+25|Badinerie|Bach|Klasik|thebadinerie
+26|Prince Igor|Borodin|Klasik|princeigor
+
+# === POP / DIGER ===
+27|Take On Me|A-ha|Pop|takeonme
+28|Never Gonna Give You Up|Rick Astley|Pop|nevergonnagiveyouup
+29|Nokia Ringtone|Nokia|Pop|nokia
+30|Keyboard Cat|Fatso|Pop|keyboardcat
+31|Happy Birthday|Traditional|Pop|happybirthday
+32|Merry Christmas|Traditional|Pop|merrychristmas
+33|Silent Night|Traditional|Pop|silentnight
+
+# === DIZI ===
+34|Game of Thrones|Ramin Djawadi|Dizi|gameofthrones
